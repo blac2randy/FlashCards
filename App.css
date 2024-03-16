@@ -28,5 +28,8 @@ body {
   box-sizing: border-box; 
 }
 
+p.feedback {
+  color: blue;
+}
 
 
